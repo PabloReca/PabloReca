@@ -1,7 +1,7 @@
-<h2>Hi, I’m @PabloReca<h2>
-I’m currently learning Java, HMTL and CSS.
+# Hey, I’m Pablo Recamán :v:#
 
-Now I'm studying software development at CEBEM.
+I’m currently learning Java, HMTL and CSS :desktop_computer:
 
-- I love :snowboarder:
+Now I'm studying software development at CEBEM :school:
 
+I love :snowboarder:
