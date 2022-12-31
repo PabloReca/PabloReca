@@ -1,4 +1,4 @@
-# Hey, I’m Pablo Recamán :v:#
+# Hey, I’m Pablo Recamán :v
 
 I’m learning Java,PHP, HMTL and CSS :desktop_computer:
 
