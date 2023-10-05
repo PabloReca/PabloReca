@@ -11,7 +11,7 @@ Database: PostgreSQL, MySQL
 Devops: Docker, Nginx, Apache, GitHub Actions, RailWay, DigitalOcean, Samba, WireguardVPN 
 Tools: GIT, GitHub
 <!--- -->
-Misc: , TDD, SCRUM, SOLID, GNU/Linux
+Misc: TDD, SCRUM, SOLID, GNU/Linux
 <!--- Firebase -->
 Architecture: SPA, MVC, Serverless, microservices
 <!--- Kubernetes -->
