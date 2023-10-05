@@ -15,3 +15,5 @@ Misc: TDD, SCRUM, SOLID, GNU/Linux
 <!--- Firebase -->
 Architecture: SPA, MVC, Serverless, microservices
 <!--- -->
+<!--- lenguajes de marcas json, yaml, -->
+<!--- android studio-->
