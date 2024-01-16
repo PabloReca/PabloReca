@@ -7,7 +7,7 @@ Languages: Python, Java, Kotlin, PHP, Arduino
 
 Frameworks: FastAPI, Android, Spring Boot
 
-Database: MySQL, PostgreSQL, Turso, SQLite3
+Database: PostgreSQL, Turso, MySQL,  SQLite3
 
 Web Servers and Reverse Proxy: Nginx, Traefik, Apache
 
@@ -19,6 +19,8 @@ Version Control: GIT, GitHub
 
 Arquitecture: MVC, microservices
 
+OS: GNU/Linux, Mac OS, Hackintosh 
+
 Data Formats: JSON, YML, XML
 
-Other Technologies: GNU/Linux, Mac OS, Hackintosh 
+
