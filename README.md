@@ -1,26 +1,27 @@
-## Hello World 👋 It's [Pablo!](https://pablorecaman.dev)
-I'm a Junior Developer studiyng in Cebem :school:
+## Hello World 👋 It's Pablo!
 
-Frontend: HTML, CSS, JavaScript, React, Boostrap
+I'm a Junior Developer studying at Cebem 🏫
 
-Languages: Python, Java, Kotlin, PHP, Arduino
+------
 
-Frameworks: FastAPI, Android, Spring Boot
+Languages: Python, Java, JavaScript, TypeScript, PHP, Arduino, Android
 
-Database: PostgreSQL, Turso, MySQL,  SQLite3
+Structured Languages: HTML, CSS, JSON, YAML, XML, BSON
 
-Web Servers and Reverse Proxy: Nginx, Traefik, Apache
+Front-end Libraries/Frameworks: React, Bootstrap, Astro, Tailwind
 
-DevOps tools: Twingate, GitHub Actions, Cloudflare DDNS, WireguardVPN, Samba
+Back-end Frameworks: FastAPI, Spring Boot
 
-Containerization and Virtualization: VMware, Docker, Proxmox 
+Databases: MongoDB, PostgreSQL, Turso, MySQL, SQLite3
+
+Web Servers and Reverse Proxies: Nginx, Traefik, Apache
+
+DevOps Tools: Twingate, GitHub Actions, Cloudflare DDNS, WireGuard VPN, Samba
+
+Containerization and Virtualization: VMware, Docker, Proxmox, WSL
 
 Version Control: GIT, GitHub
 
-Arquitecture: MVC, microservices
+Architecture: MVC, Microservices
 
-OS: GNU/Linux, Mac OS, Hackintosh 
-
-Data Formats: JSON, YML, XML
-
-
+OS: GNU/Linux, macOS, Hackintosh, Windows
