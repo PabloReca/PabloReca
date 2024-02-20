@@ -4,7 +4,7 @@ I'm a Junior Developer studying at Cebem 🏫
 
 ------
 
-Languages: Python, Java, JavaScript, TypeScript, PHP, Arduino, Android
+Languages: Python, JavaScript, TypeScript, Shellscript, Java, PHP, Arduino, Android
 
 Structured Languages: HTML, CSS, JSON, YAML, XML, BSON
 
