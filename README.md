@@ -12,18 +12,18 @@ Front-end Libraries/Frameworks: Astro, Tailwind, Bootstrap
 
 Back-end Frameworks: FastAPI, Spring Boot
 
-Databases: MongoDB, PostgreSQL, Turso, MySQL, SQLite3
+Databases: MongoDB, PostgreSQL, Turso, MySQL, SQLite3, Cloudflare R2
 
-Web Servers and Reverse Proxies: Nginx, Traefik, Apache
+Web Servers: Nginx, Traefik, Uvicorn, Apache
 
-DevOps Tools: Twingate, GitHub Actions, Cloudflare DDNS, WireGuard VPN, Samba
+DevOps Tools: Terraform, Ansible, Helm, GitHub Actions,Twingate, WireGuard VPN, Samba
 
 Containerization and Virtualization: Kubernetes, Docker, Proxmox,VMware, WSL, Virtual Box
 
 Version Control: Git, GitHub
 
-Architecture: MVC, Microservices
+Architecture: Microservices, MVC
 
-Cloud: AWS, Vercel, Digital Ocean
+Cloud: AWS, Vercel, Digital Ocean, Cloudflare
 
 OS: GNU/Linux, macOS, Windows
