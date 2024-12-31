@@ -1,18 +1,16 @@
 ## Hello World 👋 It's Pablo!
 
-I'm a Junior Developer studying at Cebem 🏫
+I'm a Full Stack Developer and SRE working on Stellantis.
 
 ------
 
-Languages: Python, JavaScript, TypeScript, Shellscript, Java, PHP, Arduino, Android
+Main Languages: Python, JavaScript, TypeScript, Shellscript.
 
-Structured Languages: HTML, CSS, JSON, YAML, XML
+Front-end Libraries/Frameworks: Astro, Tailwind, React
 
-Front-end Libraries/Frameworks: Astro, Tailwind, Bootstrap
+Back-end Frameworks: FastAPI, Django, Spring Boot
 
-Back-end Frameworks: FastAPI, Spring Boot
-
-Databases: MongoDB, PostgreSQL, Turso, MySQL, SQLite3, Cloudflare R2
+Databases: MongoDB, SQL, S3
 
 Web Servers: Nginx, Traefik, Uvicorn, Apache
 
